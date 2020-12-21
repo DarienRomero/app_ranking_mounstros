@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "383613830274",
+    "project_id": "monstersranking",
+    "storage_bucket": "monstersranking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383613830274:android:0f7154697573d8da48209b",
+        "android_client_info": {
+          "package_name": "com.ranking.monsters.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383613830274-vkt30ti58be2u3v5dk84slgo9jujegj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ranking.monsters.app",
+            "certificate_hash": "08e7a28b81feb90fd0bf0c9da9998f778817025f"
+          }
+        },
+        {
+          "client_id": "383613830274-ef59qsa32fn06i0crov6pe3bfq67r5mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwDN5-b7xb75TvvmoxIbC1fD3rDuaVWI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383613830274-ef59qsa32fn06i0crov6pe3bfq67r5mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
